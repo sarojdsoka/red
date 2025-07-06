@@ -1,7 +1,7 @@
-# eye
+# RED
 <p align="center">
     <a href="https://www.pling.com/p/2295515/">
-    <img alt="Monster Eyes" src="eye.dokies/contents/splash/images/eyesdv.gif" width="220"/>
+    <img alt="Monster Eyes" src="red.walks/contents/splash/images/red.gif" width="220"/>
     </a>
     </p>
 Eyes Plasma Bootsplash Screen
@@ -30,11 +30,11 @@ Follow these steps to manually install the eyes Plasma bootsplash screen:
 Clone the RepositoryDownload the bootsplash theme files by cloning this repository:
 
 ```bash
-git clone https://github.com/sarojdsoka/eye.git
+git clone https://github.com/sarojdsoka/red.git
 ```
 
 ```bash
-cd eye
+cd red
 ```
 
 Copy Theme FilesCopy the bootsplash theme folder to the Plasma look-and-feel directory:
@@ -47,7 +47,7 @@ mkdir -p ~/.local/share/plasma/look-and-feel/
 If directory is existing then run this Command:
 
 ```bash
-cp -r eye.dokies ~/.local/share/plasma/look-and-feel/
+cp -r red.walks ~/.local/share/plasma/look-and-feel/
 ```
 
 **Apply the Bootsplash ThemeOpen System Settings in KDE Plasma:**
